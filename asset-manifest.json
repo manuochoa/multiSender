@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/multiSender/static/css/main.a617e044.chunk.css",
-    "main.js": "/multiSender/static/js/main.98417bea.chunk.js",
-    "main.js.map": "/multiSender/static/js/main.98417bea.chunk.js.map",
-    "runtime-main.js": "/multiSender/static/js/runtime-main.808391f6.js",
-    "runtime-main.js.map": "/multiSender/static/js/runtime-main.808391f6.js.map",
-    "static/js/2.a9ecfaf0.chunk.js": "/multiSender/static/js/2.a9ecfaf0.chunk.js",
-    "static/js/2.a9ecfaf0.chunk.js.map": "/multiSender/static/js/2.a9ecfaf0.chunk.js.map",
-    "static/js/3.ca1eb68f.chunk.js": "/multiSender/static/js/3.ca1eb68f.chunk.js",
-    "static/js/3.ca1eb68f.chunk.js.map": "/multiSender/static/js/3.ca1eb68f.chunk.js.map",
+    "main.js": "/multiSender/static/js/main.38e6227a.chunk.js",
+    "main.js.map": "/multiSender/static/js/main.38e6227a.chunk.js.map",
+    "runtime-main.js": "/multiSender/static/js/runtime-main.b43aded0.js",
+    "runtime-main.js.map": "/multiSender/static/js/runtime-main.b43aded0.js.map",
+    "static/css/2.b1a99f3f.chunk.css": "/multiSender/static/css/2.b1a99f3f.chunk.css",
+    "static/js/2.86d1cb55.chunk.js": "/multiSender/static/js/2.86d1cb55.chunk.js",
+    "static/js/2.86d1cb55.chunk.js.map": "/multiSender/static/js/2.86d1cb55.chunk.js.map",
+    "static/js/3.7ea8de3d.chunk.js": "/multiSender/static/js/3.7ea8de3d.chunk.js",
+    "static/js/3.7ea8de3d.chunk.js.map": "/multiSender/static/js/3.7ea8de3d.chunk.js.map",
     "index.html": "/multiSender/index.html",
+    "static/css/2.b1a99f3f.chunk.css.map": "/multiSender/static/css/2.b1a99f3f.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/multiSender/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a9ecfaf0.chunk.js.LICENSE.txt": "/multiSender/static/js/2.a9ecfaf0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/multiSender/static/media/logo.6ce24c58.svg"
+    "static/js/2.86d1cb55.chunk.js.LICENSE.txt": "/multiSender/static/js/2.86d1cb55.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/multiSender/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/multiSender/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.808391f6.js",
-    "static/js/2.a9ecfaf0.chunk.js",
+    "static/js/runtime-main.b43aded0.js",
+    "static/css/2.b1a99f3f.chunk.css",
+    "static/js/2.86d1cb55.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.98417bea.chunk.js"
+    "static/js/main.38e6227a.chunk.js"
   ]
 }
